@@ -35,11 +35,3 @@ https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA
 https://mapstruct.org/
 #### Site oficial do Spring Initialzr ####
 https://start.spring.io/
-
-Onde parei:
-https://www.youtube.com/watch?v=gVv3Cqj3Zrc&t=599s
-Como fazer um PullRequest e testando a aplicação
-11:36
-git add .
-git commit -m "Created README.md file"
-git push
